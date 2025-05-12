@@ -1,5 +1,5 @@
 
-# 🕸️ Project 5 - Web Scraping Job Listings with Regular Expressions
+# 🕸️ Project - Web Scraping Job Listings with Regular Expressions
 
 Dự án này là một **script Python tự động** thu thập thông tin tuyển dụng từ trang [vieclam24h.vn](https://vieclam24h.vn), lọc các tin tuyển dụng dựa trên **biểu thức chính quy (Regular Expressions)** theo tiêu chí người dùng định nghĩa, lưu kết quả vào file CSV và gửi thông báo qua email.
 
